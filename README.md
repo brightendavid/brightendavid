@@ -1,14 +1,12 @@
-# brightendavid-
-github overview
 <p align="center">
-    <a href="https://nephrencake.github.io/">
-        <img src="banner.png" alt="NephrenCake Banner">
+    <a href="https://brightendavid.github.io/">
+        <img src="banner.png" alt="brightendavid Banner">
     </a>
 </p>
 
 <h1 align="center">
     <strong>
-        Ciallo～(∠・ω< )⌒★ I'm NephrenCake!
+        Ciallo～(∠・ω< )⌒★ I'm brightendavid!
     </strong>
 </h1>
 
@@ -38,7 +36,7 @@ github overview
 
 <p align="center">
     <strong>
-        Usual id: NephrenCake.
+        Usual id: brightendavid.
     </strong>
 </p>
 
@@ -62,13 +60,13 @@ github overview
 </p>
 
 <p align="center">
-    <a href="https://github.com/NephrenCake">
-        <img src="https://github-readme-stats.vercel.app/api?username=NephrenCake&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5" alt="NephrenCake's github stats">
+    <a href="https://github.com/brightendavid">
+        <img src="https://github-readme-stats.vercel.app/api?username=brightendavid&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5" alt="brightendavid's github stats">
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/NephrenCake">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NephrenCake&layout=compact&exclude_repo=NephrenCake.github.io&hide_border=true&langs_count=10&theme=buefy" alt="NephrenCake's github stats">
+    <a href="https://github.com/brightendavid">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brightendavid&layout=compact&exclude_repo=brightendavid.github.io&hide_border=true&langs_count=10&theme=buefy" alt="brightendavid's github stats">
     </a>
 </p>
 
@@ -83,7 +81,7 @@ github overview
 -->
 
 <!--
-**NephrenCake/NephrenCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brightendavid/brightendavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
