@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://brightendavid.github.io/">
-        <img src="banner.png" alt="brightendavid Banner">
+        <img src="banner.png" alt="brightendavid">
     </a>
 </p>
 
@@ -18,19 +18,21 @@
 
 <p align="center">
     <strong>
-        是11408考研人。
+        是考(保？)研人。
     </strong>
 </p>
 
 <p align="center">
     <strong>
-        Can't stand bad code. Code is Art.
+        Can't stand bad code. Code is Art.But,if if runs,all is good.
     </strong>
 </p>
 
 <p align="center">
     <strong>
-        无法忍受糟糕的代码。代码是艺术。
+        无法忍受糟糕的代码。
+        代码是艺术。
+        但是能跑就行。
     </strong>
 </p>
 
@@ -42,7 +44,7 @@
 
 <p align="center">
     <strong>
-        常用ID：浅幽丶奈芙莲。你也可以叫我nflhh（奈芙莲憨憨）。
+        常用ID：brighten）。
     </strong>
 </p>
 
