@@ -6,7 +6,7 @@
 
 <h1 align="center">
     <strong>
-        Ciallo～(∠・ω< )⌒★ I'm brightendavid!
+        Ciallo～(∠・ω< )⌒★ I'm Jiawei Song!
     </strong>
 </h1>
 
