@@ -12,13 +12,8 @@
 
 <p align="center">
     <strong>
-        I'm currently a college student majoring in Computer Science in Zhejiang gongshang University.
-    </strong>
-</p>
-
-<p align="center">
-    <strong>
-        是考(保？)研人，保个屁的研，都是假的。。。。。。。。。。
+        I'm currently a college student majoring in Computer Science in University of Chinese Academy of Sciences.
+            And have many offer in different companys.
     </strong>
 </p>
 
