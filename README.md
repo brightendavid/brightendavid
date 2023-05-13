@@ -1,47 +1,44 @@
-<p align="center">
-    <a href="https://brightendavid.github.io/">
-        <img src="banner.png" alt="brightendavid">
-    </a>
-</p>
 
 <h1 align="center">
     <strong>
         Ciallo～(∠・ω< )⌒★ I'm Jiawei Song!
     </strong>
 </h1>
-
 <p align="center">
     <strong>
-        I'm currently a college student majoring in Computer Science in University of Chinese Academy of Sciences.
-            And have many offer in different companys.
+        I'm currently a postgraduate student majoring
+        in Computer Science in University of Chinese Academy of Sciences.
+
+
+      And have many offer in different companys.
     </strong>
 </p>
 
 <p align="center">
     <strong>
-        Can't stand bad code. Code is Art.But,if if runs,all is good.
+        Code is Art.But,if if runs,all is good.
     </strong>
 </p>
 
 <p align="center">
     <strong>
-        无法忍受糟糕的代码。
-        代码是艺术。
+        代码是艺术,
         但是能跑就行。
     </strong>
 </p>
+
 
 <p align="center">
     <strong>
         Usual id: brightendavid.
     </strong>
 </p>
-
 <p align="center">
     <strong>
-        常用ID：brighten）。
+        常用ID：brighten。
     </strong>
 </p>
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python">
@@ -55,17 +52,12 @@
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySql" alt="MySQL">
     <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" alt="MySQL">
 </p>
-
-<p align="center">
-    <a href="https://github.com/brightendavid">
-        <img src="https://github-readme-stats.vercel.app/api?username=brightendavid&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5" alt="brightendavid's github stats">
-    </a>
-</p>
 <p align="center">
     <a href="https://github.com/brightendavid">
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brightendavid&layout=compact&exclude_repo=brightendavid.github.io&hide_border=true&langs_count=10&theme=buefy" alt="brightendavid's github stats">
     </a>
 </p>
+
 
 <!--
 <p align="center">
