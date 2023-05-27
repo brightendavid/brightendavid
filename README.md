@@ -1,3 +1,4 @@
+<img align='up' src=http://img9.vilipix.com/picture/pages/original/2023/04/06/12/107610385_p0.jpg width='1000px'>
 
 <h1 align="center">
     <strong>
@@ -54,9 +55,10 @@
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brightendavid&layout=compact&exclude_repo=brightendavid.github.io&hide_border=true&langs_count=10&theme=buefy" alt="brightendavid's github stats">
     </a>
 </p>
-
+<img align='right' src="banner.jpg" width='400px'>
 
 <!--
+
 <p align="center">
   <strong><a href="">Official Website</a></strong> |
   <strong><a href="">Twitter</a></strong> |
