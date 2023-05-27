@@ -24,7 +24,6 @@
         但是能跑就行。
     </strong>
 </p>
-
 <p align="left">
     <strong>
         Usual id: brightendavid.
@@ -32,13 +31,22 @@
 </p>
 <p align="left">
     <strong>
-        常用ID：brighten。
+        常用ID：brighten
     </strong>
 </p>
-
 <img align='right' src="banner.jpg" width='400px'>
 
+
 <p align="center">
+    <a href="https://github.com/brightendavid">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brightendavid&layout=compact&exclude_repo=brightendavid.github.io&hide_border=true&langs_count=10&theme=buefy" alt="brightendavid's github stats">
+    </a>
+</p>
+<p align="center">
+    <img src='https://github-readme-stats.vercel.app/api?username=brightendavid&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5' width='400px'>
+</p>
+
+<p align="left">
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python">
     <img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=Java" alt="Java">
     <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C" alt="C++">
@@ -49,14 +57,6 @@
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git" alt="Git">
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySql" alt="MySQL">
     <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" alt="MySQL">
-</p>
-<p align="center">
-    <a href="https://github.com/brightendavid">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=brightendavid&layout=compact&exclude_repo=brightendavid.github.io&hide_border=true&langs_count=10&theme=buefy" alt="brightendavid's github stats">
-    </a>
-</p>
-<p align="center">
-    <img src='https://github-readme-stats.vercel.app/api?username=brightendavid&hide_border=true&show_icons=true&theme=buefy&icon_color=7957d5' width='400px'>
 </p>
 
 <!--
