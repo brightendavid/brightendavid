@@ -34,7 +34,7 @@
         常用ID：brighten
     </strong>
 </p>
-<img align='right' src="ban.jpg" width='400px'>
+<img align='right' src=http://img9.vilipix.com/picture/pages/original/2021/08/16/09/54/82672814_p0.jpg width='400px'>
 
 
 <p align="center">
