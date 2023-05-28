@@ -34,7 +34,7 @@
         常用ID：brighten
     </strong>
 </p>
-<img align='right' src="banner.jpg" width='400px'>
+<img align='right' src="ban.jpg" width='400px'>
 
 
 <p align="center">
