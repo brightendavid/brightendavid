@@ -8,7 +8,7 @@
 <p align="left">
     <strong>
         I'm currently a postgraduate student majoring
-        in Computer Science in University of Chinese Academy of Sciences.And have many offer in different companys at the same time.
+        in Computer Science in University of Chinese Academy of Sciences.
     </strong>
 </p>
 
